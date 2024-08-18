@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blacj">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="peach_puff">#F8E1DA</color>
+    <color name="misty_rose">#F4BFBF</color>
+    <color name="light_pink">#FFD2DA</color>
+    <color name="lavender_blush">#FFE1E1</color>
+    <color name="snow">#FFF5F5</color>
+    <color name="seashell">#FFFAF3</color>
+    <color name="navajo_white">#FFEBCB</color>
+    <color name="papaya_whip">#FFF8E1</color>
+    <color name="blanched_almond">#FFF9E6</color>
+    <color name="linen">#FFFDF3</color>
+    <color name="mint_cream">#D3E4CD</color>
+    <color name="light_green">#ADC2A9</color>
+    <color name="olivine">#A0A77E</color>
+    <color name="carnation_pink">#FFC4E1</color>
+    <color name="honeydew">#E4F9F5</color>
+    <color name="ash_grey">#B8BDB5</color>
+    <color name="antique_white">#F0E5D8</color>
+    <color name="peach_puff_2">#FFDACC</color> <!-- Duplicated name adjusted -->
+    <color name="bisque">#FFE3D8</color>
+    <color name="wheat">#F4D1AE</color>
+    <color name="sandy_brown">#FFD2B6</color>
+    <color name="moccasin">#FFDEC4</color>
+    <color name="old_lace">#FFF3E4</color>
+    <color name="floral_white">#FFF8ED</color>
+    <color name="magnolia">#FAF4FF</color>
+    <color name="alice_blue">#F0F8FF</color>
+    <color name="light_cyan">#E6F9FF</color>
+    <color name="lavender_mist">#EBF5FB</color>
+    <color name="ghost_white">#E0E7FF</color>
+    <color name="lavender_blue">#D8DBFF</color>
+
+    <!-- Tema Oscuro -->
+    <color name="jet">#2C2C2C</color>
+    <color name="onyx">#3E3E3E</color>
+    <color name="raisin_black">#4F4F4F</color>
+    <color name="charcoal">#626262</color>
+    <color name="davys_grey">#757575</color>
+    <color name="battleship_grey">#898989</color>
+    <color name="trolley_grey">#9E9E9E</color>
+    <color name="silver">#B3B3B3</color>
+    <color name="silver_sand">#C8C8C8</color>
+    <color name="gainsboro">#DADADA</color>
+    <color name="liver">#4D4646</color>
+    <color name="taupe">#5C4E4E</color>
+    <color name="rose_ebony">#6B5757</color>
+    <color name="cedar_chest">#7A6060</color>
+    <color name="rose_dust">#896969</color>
+    <color name="rosy_brown">#987272</color>
+    <color name="copper_rose">#A77B7B</color>
+    <color name="puce">#B68484</color>
+    <color name="silver_pink">#C58D8D</color>
+    <color name="light_coral">#D49696</color>
+    <color name="dark_chestnut">#554F46</color>
+    <color name="dark_vanilla">#665D4F</color>
+    <color name="cafe_au_lait">#776B58</color>
+    <color name="camel">#887961</color>
+    <color name="ecru">#99876A</color>
+    <color name="khaki">#AAA573</color>
+    <color name="sand_dune">#BBB37C</color>
+    <color name="dark_khaki">#CCC185</color>
+    <color name="light_khaki">#DDD88E</color>
+    <color name="lemon_chiffon">#EEE697</color>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312634487331",
+    "project_id": "perros-f6f06",
+    "storage_bucket": "perros-f6f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312634487331:android:ff1ebbd0dc5c74fb0bf796",
+        "android_client_info": {
+          "package_name": "com.example.perros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWk7C3zSwjXYus_KDmEMHll9HiQKyVlY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
